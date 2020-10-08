@@ -1,0 +1,29 @@
+.navbar a{
+  font-size: 1.3rem;
+  text-transform: capitalize;
+}
+.navbar a:hover{
+  color: #3498db ! important;
+}
+.menu_action{
+  font-weight: bold;
+  border-bottom: 1px solid #565387;
+}
+.brand-name{
+  color: #0d53de;
+}
+.btn-get-started{
+  padding: 10px 20px;
+  text-decoration: none;
+  background-color:  #0d53de;
+  color: #fff;
+  border-radius: 50px;
+  transition: 0.5s;
+}
+.btn-get-started:hover{
+  background-color: #fff;
+  border: 2px solid#219b56;
+}
+.header-img{
+  text-align: right;
+}
